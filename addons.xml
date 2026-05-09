@@ -14,20 +14,20 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en_GB">Keithah Kodi add-on repository.</summary>
-    <description lang="en_GB">Install and update Chorus3 and future Keithah Kodi add-ons.</description>
+    <description lang="en_GB">Install and update Chorus 3 and future Keithah Kodi add-ons.</description>
     <license>GPL-2.0-or-later</license>
     <source>https://github.com/keithah/kodi</source>
     <platform>all</platform>
   </extension>
 </addon>
-<addon id="webinterface.chorus3" name="Chorus3" version="0.1.0" provider-name="Chorus3">
+<addon id="webinterface.chorus3" name="Chorus 3" version="3.0.1" provider-name="Chorus 3">
   <requires>
     <import addon="xbmc.json" version="6.0.0" />
   </requires>
   <extension point="xbmc.webinterface" />
   <extension point="xbmc.addon.metadata">
     <summary lang="en_GB">A faithful modern rewrite of the Chorus2 Kodi web interface.</summary>
-    <description lang="en_GB">Chorus3 is a faithful rewrite of Chorus2 for current Kodi installations. It keeps the classic Chorus browsing, playback, remote, settings, add-on, playlist, PVR, and lab workflows while rebuilding the web interface with Svelte 5, TypeScript, Vite, and direct Kodi JSON-RPC integrations.</description>
+    <description lang="en_GB">Chorus 3 is a faithful rewrite of Chorus2 for current Kodi installations. It keeps the classic Chorus browsing, playback, remote, settings, add-on, playlist, PVR, and lab workflows while rebuilding the web interface with Svelte 5, TypeScript, Vite, and direct Kodi JSON-RPC integrations.</description>
     <source>https://github.com/keithah/chorus3</source>
     <license>GPL-2.0-or-later</license>
     <language>en_GB</language>
