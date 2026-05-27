@@ -20,7 +20,7 @@
     <platform>all</platform>
   </extension>
 </addon>
-<addon id="webinterface.chorus3" name="Chorus 3" version="3.0.8" provider-name="Chorus 3">
+<addon id="webinterface.chorus3" name="Chorus 3" version="3.0.13" provider-name="Chorus 3">
   <requires>
     <import addon="xbmc.json" version="6.0.0" />
   </requires>
